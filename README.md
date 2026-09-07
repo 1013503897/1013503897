@@ -2,7 +2,7 @@
 
 # Hi, I'm W1n0xY
 
-Reverse engineer · Beijing / 酒仙桥
+Reverse engineer · Beijing 
 
 [English](#english) · [中文](#中文)
 
