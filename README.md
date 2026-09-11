@@ -19,7 +19,7 @@
 
 ## 🧬 About
 
-Android / native reverse engineering, tooling for static analysis, and instrumentation research. I take binaries, protocols and hardening apart to understand how they really work — packers & unpacking, signature / protocol reversing, RASP and anti-cheat defeat, and pure-algorithm off-device reproduction. Most of my recent work ships as open-source CLIs, MCP servers, and Zygisk / KPM modules.
+Android / native reverse engineering, static-analysis tooling, and instrumentation. Focus areas: unpacking, signature and protocol reversing, RASP and anti-cheat, off-device pure-algorithm implementation, and device fingerprint / risk-control countermeasures. Output is mostly open source: CLIs, MCP servers, and Zygisk / KPM modules.
 
 📝 Long-form write-ups on my blog → **[1013503897.github.io](https://1013503897.github.io/)**
 
@@ -72,7 +72,7 @@ Android / native reverse engineering, tooling for static analysis, and instrumen
 
 ## 🧬 关于
 
-做 Android / Native 逆向、静态分析工具，以及插桩相关的研究与工程。日常是把二进制、协议和加固一层层拆开搞明白它到底怎么跑：加固脱壳、签名与协议逆向、RASP / 反作弊对抗、纯算法离设备复现。近期作品多以开源 CLI、MCP 服务和 Zygisk / KPM 模块的形式发布。
+做 Android / Native 逆向、静态分析工具与插桩。方向集中在加固脱壳、签名与协议逆向、RASP / 反作弊对抗、脱机纯算实现、设备指纹与风控对抗。产出多为开源 CLI、MCP 服务和 Zygisk / KPM 模块。
 
 📝 逆向长文都写在博客上 → **[星野安全 · 逆向手记](https://1013503897.github.io/)**
 
