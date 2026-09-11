@@ -8,6 +8,7 @@ Reverse engineer · Beijing
 
 [![Followers](https://img.shields.io/github/followers/1013503897?style=flat-square&logo=github&label=followers)](https://github.com/1013503897)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F1013503897&query=%24.public_repos&style=flat-square&logo=github&label=repos&color=blue)](https://github.com/1013503897?tab=repositories)
+[![Blog](https://img.shields.io/badge/Blog-1013503897.github.io-d6482b?style=flat-square&logo=astro&logoColor=white)](https://1013503897.github.io/)
 
 </div>
 
@@ -18,6 +19,8 @@ Reverse engineer · Beijing
 ## English
 
 Android / native reverse engineering, tooling for static analysis, and instrumentation research. Most of my recent work ships as open-source CLIs, MCP servers, and Zygisk / KPM modules.
+
+📝 Long-form reverse-engineering write-ups on my blog → **[1013503897.github.io](https://1013503897.github.io/)**
 
 ### Featured projects
 
@@ -41,6 +44,8 @@ Android / native reverse engineering, tooling for static analysis, and instrumen
 ## 中文
 
 做 Android / Native 逆向、静态分析工具，以及插桩相关的研究与工程。近期作品多是开源 CLI、MCP 服务，以及 Zygisk / KPM 模块。
+
+📝 逆向长文都写在博客上 → **[1013503897.github.io](https://1013503897.github.io/)**
 
 ### 精选项目
 
