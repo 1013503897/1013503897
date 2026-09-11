@@ -31,33 +31,15 @@ Android / native reverse engineering, tooling for static analysis, and instrumen
 
 **Reversing & Instrumentation**
 
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1c1c1c?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-ff4040?style=for-the-badge)
-![Frida](https://img.shields.io/badge/Frida-ff6f4d?style=for-the-badge)
-![jadx](https://img.shields.io/badge/jadx-2b7489?style=for-the-badge)
-![unidbg](https://img.shields.io/badge/unidbg-5a5a5a?style=for-the-badge)
-![Unicorn](https://img.shields.io/badge/Unicorn-222222?style=for-the-badge&logo=qemu&logoColor=FF6600)
-![LSPosed](https://img.shields.io/badge/LSPosed-4a148c?style=for-the-badge)
-![APatch%2FKPM](https://img.shields.io/badge/APatch%252FKPM-b71c1c?style=for-the-badge)
+`IDA Pro` `Ghidra` `Frida` `jadx` `unidbg` `Unicorn` `LSPosed` `APatch / KPM` `FART`
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C%2B%2B](https://img.shields.io/badge/C%252B%252B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ARM64 asm](https://img.shields.io/badge/ARM64%20asm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+`C` `C++` `Kotlin` `Java` `Python` `ARM64 asm` `Shell`
 
 **Platform & Internals**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Zygisk%2FMagisk](https://img.shields.io/badge/Zygisk%252FMagisk-f04e1e?style=for-the-badge&logo=magisk&logoColor=white)
-![ART %2F JNI](https://img.shields.io/badge/ART%20%252F%20JNI-087f23?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+`Android` `Zygisk / Magisk` `ART / JNI` `Linux` `Git` `MCP`
 
 </div>
 
