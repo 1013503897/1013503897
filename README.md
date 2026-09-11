@@ -31,15 +31,24 @@ Android / native reverse engineering, static-analysis tooling, and instrumentati
 
 **Reversing & Instrumentation**
 
-`IDA Pro` `Ghidra` `Frida` `jadx` `unidbg` `Unicorn` `LSPosed` `APatch / KPM` `FART`
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1c1c22?style=for-the-badge)
+![Frida](https://img.shields.io/badge/Frida-ff6f4d?style=for-the-badge)
+![jadx](https://img.shields.io/badge/jadx-2b7489?style=for-the-badge)
+![unidbg](https://img.shields.io/badge/unidbg-5a5a5a?style=for-the-badge)
+![KPM](https://img.shields.io/badge/KPM-b71c1c?style=for-the-badge)
 
 **Languages**
 
-`C` `C++` `Kotlin` `Java` `Python` `ARM64 asm` `Shell`
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ARM64](https://img.shields.io/badge/ARM64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 **Platform & Internals**
 
-`Android` `Zygisk / Magisk` `ART / JNI` `Linux` `Git` `MCP`
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Zygisk / Magisk](https://img.shields.io/badge/Zygisk%20%2F%20Magisk-f04e1e?style=for-the-badge&logo=magisk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
