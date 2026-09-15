@@ -89,8 +89,6 @@ Android / native reverse engineering, static-analysis tooling, and instrumentati
 
 <div align="center">
 
-### 🐍 贡献格贪吃蛇 / Contribution snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1013503897/1013503897/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1013503897/1013503897/output/github-contribution-grid-snake.svg" />
